@@ -8,7 +8,7 @@
 	<h1>Introduce dos numeros</h1>
 
 	<!-- php al que se envia -->
-	<form action="interaccion1.php" method="get">
+	<form action="multiplicacion.php" method="get">
 		<label>Primer numero</label>
 		<input type="text" name="num1">
 		<br>		
